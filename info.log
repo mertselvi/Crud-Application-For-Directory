@@ -1,0 +1,65 @@
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-06T14:02:16.438Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-06T14:22:19.867Z"}
+{"level":"error","message":"muhammet.mert.selvi@gmail.com-- LOGIN error :Cannot access 'user' before initialization","timestamp":"2023-12-06T18:20:08.098Z"}
+{"level":"error","message":"muhammet.mert.selvi@gmail.com-- LOGIN error :Cannot access 'user' before initialization","timestamp":"2023-12-06T18:21:22.374Z"}
+{"level":"error","message":"b@a.com-- LOGIN error :Cannot access 'user' before initialization","timestamp":"2023-12-06T18:21:36.055Z"}
+{"level":"error","message":"b@a.com-- LOGIN error :Cannot access 'user' before initialization","timestamp":"2023-12-06T18:21:42.705Z"}
+{"level":"error","message":"muhammet.mert.selvi@gmail.com-- LOGIN error :Cannot access 'user' before initialization","timestamp":"2023-12-06T18:24:00.404Z"}
+{"level":"error","message":"muhammet.mert.selvi@gmail.com-- LOGIN error :Cannot access 'user' before initialization","timestamp":"2023-12-06T18:25:36.143Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-06T18:27:46.265Z"}
+{"level":"error","message":"muhammet.mert.selvi@gmail.com-- LOGIN error :localStorage is not defined","timestamp":"2023-12-06T18:28:18.787Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-06T18:31:18.243Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-06T18:38:10.993Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-06T18:42:56.033Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-06T19:30:37.006Z"}
+{"level":"error","message":"muhammet.mert.selvi@gmail.com-- LOGIN error :invalid expiresIn option for string payload","timestamp":"2023-12-06T21:52:11.391Z"}
+{"level":"error","message":"muhammet.mert.selvi@gmail.com-- LOGIN error :json is not defined","timestamp":"2023-12-06T21:54:19.541Z"}
+{"level":"error","message":"muhammet.mert.selvi@gmail.com-- LOGIN error :invalid expiresIn option for string payload","timestamp":"2023-12-06T21:54:53.281Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-06T21:58:07.860Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-06T22:01:07.526Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-06T22:03:01.846Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-06T22:06:33.423Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-06T22:07:34.252Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-06T22:10:20.922Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-06T22:12:32.264Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-06T22:16:15.851Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-06T22:16:50.630Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-06T22:19:46.388Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-06T22:27:03.443Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-06T22:29:48.580Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-06T22:32:14.784Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-06T22:34:38.516Z"}
+{"level":"info","message":"b@a.com-- log in succesfully !","timestamp":"2023-12-06T22:39:00.185Z"}
+{"level":"info","message":"mercedes_tyler@fakegmail.com-- log in succesfully !","timestamp":"2023-12-06T22:40:32.968Z"}
+{"level":"error","message":"muhammet.mert.selvi@gmail.com-- LOGIN error :jwt.sign(...).then is not a function","timestamp":"2023-12-06T22:44:29.745Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-06T22:45:25.989Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-06T22:50:46.696Z"}
+{"level":"info","message":"b@a.com-- log in succesfully !","timestamp":"2023-12-06T22:52:18.675Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-07T14:49:13.552Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-08T12:42:03.623Z"}
+{"level":"error","message":"-- LOGIN error :Cannot read properties of undefined (reading 'password')","timestamp":"2023-12-08T12:44:47.931Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-08T12:45:01.326Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-08T12:48:51.698Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-08T15:44:16.002Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-08T15:51:54.714Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-08T15:56:49.686Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-08T16:00:55.688Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-08T16:03:32.071Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-08T16:05:00.163Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-08T16:06:55.624Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-08T16:09:40.996Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-08T16:11:00.795Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-08T16:12:51.253Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-08T16:14:05.710Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-08T16:15:00.842Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-08T16:34:33.175Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-08T16:35:24.116Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-08T16:36:45.499Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-08T18:23:38.711Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-08T18:24:10.886Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-08T18:29:26.094Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-08T18:30:10.619Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-08T18:32:12.705Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- log in succesfully !","timestamp":"2023-12-08T18:32:40.008Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- LOGIN succesfully !","timestamp":"2023-12-08T18:38:02.236Z"}
+{"level":"info","message":"muhammet.mert.selvi@gmail.com-- LOGIN succesfully !","timestamp":"2023-12-08T18:40:01.522Z"}
